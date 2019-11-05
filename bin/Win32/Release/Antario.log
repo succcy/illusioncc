@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (D:\virtoustiy\bin\Win32\Release\) contains files shared from another project (shonax.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  DLLMain.cpp
+c_menu.obj : error LNK2005: "class discordpresence dlg" (?dlg@@3Vdiscordpresence@@A) already defined in DLLMain.obj
+     Creating library D:\virtoustiy\build\Win32\Release\clueless.lib and object D:\virtoustiy\build\Win32\Release\clueless.exp
+D:\virtoustiy\build\Win32\Release\clueless.dll : fatal error LNK1169: one or more multiply defined symbols found

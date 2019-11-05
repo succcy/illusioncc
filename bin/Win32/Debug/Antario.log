@@ -1,0 +1,2115 @@
+﻿  D3DFont.cpp
+  discord_register_win.cpp
+  discord_rpc.cpp
+  DLLMain.cpp
+  aimbot_recode.cpp
+  c_aimhelper.cpp
+  c_animation_system.cpp
+  c_antiaim.cpp
+  c_chams.cpp
+  c_damageesp.cpp
+  c_esp.cpp
+  c_fake_ping.cpp
+d:\virtoustiy\csgocheat\discord_register_win.cpp(1): fatal error C1083: Cannot open include file: 'discord_rpc.h': No such file or directory
+d:\virtoustiy\csgocheat\discord_rpc.cpp(1): fatal error C1083: Cannot open include file: 'discord_rpc.h': No such file or directory
+  c_hitmarker.cpp
+  c_legitbot.cpp
+d:\virtoustiy\csgocheat\d3dfont.cpp(65): error C2664: 'char *strncpy(char *,const char *,size_t)': cannot convert argument 1 from 'TCHAR [80]' to 'char *'
+  d:\virtoustiy\csgocheat\d3dfont.cpp(65): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\virtoustiy\csgocheat\d3dfont.cpp(251): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  c_legitbot_beta.cpp
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hacks\aimbot_recode.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hacks\aimbot_recode.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hacks\aimbot_recode.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hacks\c_esp.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hacks\c_esp.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hacks\c_esp.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hacks\c_animation_system.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hacks\c_animation_system.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hacks\c_damageesp.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hacks\c_damageesp.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hacks\c_animation_system.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\DLLMain.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\DLLMain.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hacks\c_antiaim.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hacks\c_antiaim.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hacks\c_fake_ping.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hacks\c_fake_ping.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hacks\c_damageesp.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\DLLMain.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hacks\c_antiaim.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hacks\c_fake_ping.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hacks\c_aimhelper.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hacks\c_aimhelper.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hacks\c_aimhelper.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\c_fake_ping.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\c_fake_ping.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\c_fake_ping.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\c_fake_ping.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hacks\c_chams.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hacks\c_chams.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hacks\c_chams.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hacks\c_hitmarker.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hacks\c_hitmarker.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hacks\c_hitmarker.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hacks\c_legitbot.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hacks\c_legitbot.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hacks\c_legitbot.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\c_animation_system.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\c_animation_system.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\c_animation_system.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\c_animation_system.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\c_aimhelper.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\c_aimhelper.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\c_aimhelper.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\c_aimhelper.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_chams.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_chams.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_chams.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_chams.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\c_hitmarker.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\c_hitmarker.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\c_hitmarker.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\c_hitmarker.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\aimbot_recode.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\aimbot_recode.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\aimbot_recode.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\aimbot_recode.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_esp.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_esp.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_esp.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_esp.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\DLLMain.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\DLLMain.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\DLLMain.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\DLLMain.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_antiaim.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_antiaim.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_antiaim.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_antiaim.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_chams.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\aimbot_recode.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_fake_ping.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_fake_ping.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_fake_ping.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_fake_ping.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hacks\c_legitbot_beta.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hacks\c_legitbot_beta.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hacks\c_legitbot_beta.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\DLLMain.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_esp.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_antiaim.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_damageesp.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_damageesp.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_damageesp.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_damageesp.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_animation_system.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_animation_system.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_animation_system.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_animation_system.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_fake_ping.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\aimbot_recode.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\aimbot_recode.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\c_antiaim.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\c_antiaim.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\c_antiaim.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\c_antiaim.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\aimbot_recode.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\aimbot_recode.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_damageesp.cpp)
+d:\virtoustiy\csgocheat\dllmain.cpp(26): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'const char *' to 'LPCWSTR'
+  d:\virtoustiy\csgocheat\dllmain.cpp(26): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_aimhelper.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_aimhelper.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_aimhelper.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_aimhelper.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\c_chams.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\c_chams.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\c_chams.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\c_chams.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_hitmarker.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_hitmarker.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_hitmarker.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_hitmarker.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_animation_system.cpp)
+d:\virtoustiy\csgocheat\hacks\c_chams.cpp(89): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_legitbot.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_legitbot.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_legitbot.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_legitbot.cpp)
+d:\virtoustiy\csgocheat\hacks\c_chams.cpp(220): warning C4804: '>': unsafe use of type 'bool' in operation
+d:\virtoustiy\csgocheat\hacks\aimbot_recode.cpp(87): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\virtoustiy\csgocheat\hacks\aimbot_recode.cpp(102): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\virtoustiy\csgocheat\hacks\aimbot_recode.cpp(176): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\virtoustiy\csgocheat\hacks\aimbot_recode.cpp(191): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\c_esp.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\c_esp.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\c_esp.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\c_esp.cpp)
+d:\virtoustiy\csgocheat\hacks\c_antiaim.cpp(228): warning C4018: '<=': signed/unsigned mismatch
+d:\virtoustiy\csgocheat\hacks\c_antiaim.cpp(229): warning C4018: '>=': signed/unsigned mismatch
+d:\virtoustiy\csgocheat\hacks\c_antiaim.cpp(373): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_antiaim.cpp(459): warning C4018: '>=': signed/unsigned mismatch
+d:\virtoustiy\csgocheat\hacks\c_antiaim.cpp(491): warning C4018: '>=': signed/unsigned mismatch
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_aimhelper.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\c_damageesp.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\c_damageesp.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\c_damageesp.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\c_damageesp.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_hitmarker.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_legitbot.cpp)
+d:\virtoustiy\csgocheat\hacks\c_esp.cpp(341): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_esp.cpp(345): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_esp.cpp(362): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_esp.cpp(371): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_esp.cpp(374): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_esp.cpp(377): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_esp.cpp(393): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_damageesp.cpp(106): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_esp.cpp(415): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_esp.cpp(416): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_esp.cpp(418): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_esp.cpp(421): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_esp.cpp(424): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_esp.cpp(435): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_esp.cpp(441): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_esp.cpp(444): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_esp.cpp(447): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_esp.cpp(462): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_esp.cpp(472): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_esp.cpp(677): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_esp.cpp(712): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_esp.cpp(712): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_esp.cpp(717): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_esp.cpp(720): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_esp.cpp(723): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_esp.cpp(726): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_esp.cpp(729): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_esp.cpp(732): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_esp.cpp(736): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_esp.cpp(739): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_esp.cpp(742): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\c_legitbot.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\c_legitbot.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\c_legitbot.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\c_legitbot.cpp)
+d:\virtoustiy\csgocheat\hacks\c_fake_ping.cpp(15): warning C4805: '==': unsafe mix of type 'const uint32_t' and type 'bool' in operation
+d:\virtoustiy\csgocheat\hacks\c_hitmarker.cpp(20): warning C4018: '<': signed/unsigned mismatch
+d:\virtoustiy\csgocheat\hacks\c_hitmarker.cpp(126): warning C4018: '<': signed/unsigned mismatch
+  c_miscellaneous.cpp
+  c_movement.cpp
+  c_prediction_system.cpp
+  c_ragebot.cpp
+  c_resolver.cpp
+  c_trace_system.cpp
+  grenade_prediction.cpp
+  cte_effects.cpp
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_legitbot_beta.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_legitbot_beta.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_legitbot_beta.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_legitbot_beta.cpp)
+  c_base_animating_.cpp
+  c_client.cpp
+  c_client_mode_shared.cpp
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_legitbot_beta.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\c_legitbot_beta.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\c_legitbot_beta.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\c_legitbot_beta.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\c_legitbot_beta.cpp)
+  c_client_state_.cpp
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hacks\c_miscellaneous.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hacks\c_miscellaneous.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hacks\c_miscellaneous.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hacks\c_ragebot.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hacks\c_ragebot.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hacks\c_prediction_system.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hacks\c_prediction_system.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hacks\c_ragebot.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hacks\c_movement.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hacks\c_movement.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hacks\c_prediction_system.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hacks\c_movement.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hacks\grenade_prediction.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hacks\grenade_prediction.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hacks\grenade_prediction.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hacks\c_resolver.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hacks\c_resolver.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hacks\c_resolver.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hooks\c_base_animating_.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hooks\c_base_animating_.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hooks\c_base_animating_.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hooks\cte_effects.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hooks\cte_effects.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hooks\cte_effects.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hacks\c_trace_system.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hacks\c_trace_system.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hooks\c_client_mode_shared.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hooks\c_client_mode_shared.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hacks\c_trace_system.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hooks\c_client.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hooks\c_client.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hooks\c_client.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hooks\c_client_mode_shared.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\c_resolver.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\c_resolver.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\c_resolver.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\c_resolver.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\c_prediction_system.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\c_prediction_system.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\c_prediction_system.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\c_prediction_system.cpp)
+  c_cl_camera_height_restriction_debug.cpp
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_miscellaneous.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_miscellaneous.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_miscellaneous.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_miscellaneous.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_ragebot.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_ragebot.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_ragebot.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_ragebot.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hooks\c_client_state_.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hooks\c_client_state_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_movement.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_movement.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hooks\c_client_state_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_movement.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_movement.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_miscellaneous.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\grenade_prediction.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\grenade_prediction.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\grenade_prediction.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\grenade_prediction.cpp)
+  c_cl_csm_shadows.cpp
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_ragebot.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\c_trace_system.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\c_trace_system.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\c_trace_system.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\c_trace_system.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\grenade_prediction.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\cte_effects.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\cte_effects.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\cte_effects.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\cte_effects.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_movement.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_resolver.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_resolver.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_resolver.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_resolver.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\c_movement.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\c_movement.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\c_movement.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\c_movement.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\c_ragebot.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\c_ragebot.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\c_ragebot.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\c_ragebot.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\cte_effects.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_resolver.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\grenade_prediction.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\grenade_prediction.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hacks\grenade_prediction.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hacks\grenade_prediction.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_client_mode_shared.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_client_mode_shared.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_client_mode_shared.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_client_mode_shared.cpp)
+d:\virtoustiy\csgocheat\hacks\c_ragebot.cpp(236): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+d:\virtoustiy\csgocheat\hacks\c_ragebot.cpp(238): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+d:\virtoustiy\csgocheat\hacks\c_ragebot.cpp(240): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+d:\virtoustiy\csgocheat\hacks\c_ragebot.cpp(242): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+d:\virtoustiy\csgocheat\hacks\c_ragebot.cpp(246): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+d:\virtoustiy\csgocheat\hacks\c_ragebot.cpp(249): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+d:\virtoustiy\csgocheat\hacks\c_ragebot.cpp(252): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+d:\virtoustiy\csgocheat\hacks\c_ragebot.cpp(419): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\virtoustiy\csgocheat\hacks\c_ragebot.cpp(419): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+  c_cs_player_.cpp
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_client.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_client.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_client.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_client.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hooks\cte_effects.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hooks\cte_effects.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hooks\cte_effects.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hooks\cte_effects.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_client_mode_shared.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_trace_system.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_trace_system.cpp)
+  c_engine_client.cpp
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_trace_system.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_trace_system.cpp)
+  c_engine_sound_.cpp
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_client.cpp)
+  c_events.cpp
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_client_state_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_client_state_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_client_state_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_client_state_.cpp)
+  c_game_event_manager_.cpp
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hacks\c_trace_system.cpp)
+d:\virtoustiy\csgocheat\hacks\c_resolver.cpp(153): warning C4804: '>=': unsafe use of type 'bool' in operation
+d:\virtoustiy\csgocheat\hacks\c_resolver.cpp(215): warning C4804: '>': unsafe use of type 'bool' in operation
+d:\virtoustiy\csgocheat\hacks\c_resolver.cpp(221): warning C4804: '>': unsafe use of type 'bool' in operation
+d:\virtoustiy\csgocheat\hacks\c_resolver.cpp(157): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+d:\virtoustiy\csgocheat\hacks\c_resolver.cpp(217): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: see declaration of 'sprintf'
+d:\virtoustiy\csgocheat\hacks\c_resolver.cpp(568): warning C4804: '>=': unsafe use of type 'bool' in operation
+d:\virtoustiy\csgocheat\hacks\c_resolver.cpp(625): warning C4804: '>': unsafe use of type 'bool' in operation
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_client_state_.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hooks\c_client.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hooks\c_client.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hooks\c_client.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hooks\c_client.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hooks\c_cl_camera_height_restriction_debug.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hooks\c_cl_camera_height_restriction_debug.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hooks\c_cl_camera_height_restriction_debug.cpp)
+  c_hooks.cpp
+  c_mdl_cache.cpp
+  c_model_render_.cpp
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hooks\c_cl_csm_shadows.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hooks\c_cl_csm_shadows.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hooks\c_cl_csm_shadows.cpp)
+  c_net_channel_.cpp
+  c_panel_.cpp
+  c_prediction_.cpp
+  c_render_view_.cpp
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hooks\c_cs_player_.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hooks\c_cs_player_.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hooks\c_cs_player_.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hooks\c_engine_client.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hooks\c_engine_client.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hooks\c_engine_client.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hooks\c_engine_sound_.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hooks\c_engine_sound_.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hooks\c_engine_sound_.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hooks\c_events.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hooks\c_events.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hooks\c_events.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hooks\c_game_event_manager_.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hooks\c_game_event_manager_.cpp)
+  c_smoke_grenade_projectile_.cpp
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hooks\c_game_event_manager_.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hooks\c_mdl_cache.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hooks\c_mdl_cache.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hooks\c_mdl_cache.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hooks\c_cs_player_.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hooks\c_cs_player_.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hooks\c_cs_player_.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hooks\c_cs_player_.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hooks\c_model_render_.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hooks\c_model_render_.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hooks\c_model_render_.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hooks\c_hooks.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hooks\c_hooks.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hooks\c_hooks.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hooks\c_engine_client.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hooks\c_engine_client.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hooks\c_engine_client.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hooks\c_engine_client.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hooks\c_panel_.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hooks\c_panel_.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hooks\c_panel_.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hooks\c_net_channel_.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hooks\c_net_channel_.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hooks\c_net_channel_.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hooks\c_mdl_cache.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hooks\c_mdl_cache.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hooks\c_mdl_cache.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hooks\c_mdl_cache.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_events.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_events.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hooks\c_render_view_.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hooks\c_render_view_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_events.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_events.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hooks\c_render_view_.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hooks\c_prediction_.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hooks\c_prediction_.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hooks\c_prediction_.cpp)
+  c_surface_.cpp
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_events.cpp)
+  c_sv_cheats.cpp
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_cs_player_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_cs_player_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_cs_player_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_cs_player_.cpp)
+  c_view_render_.cpp
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_cs_player_.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hooks\c_smoke_grenade_projectile_.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hooks\c_smoke_grenade_projectile_.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hooks\c_events.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hooks\c_events.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hooks\c_events.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hooks\c_events.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hooks\c_smoke_grenade_projectile_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_model_render_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_model_render_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_model_render_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_model_render_.cpp)
+d:\virtoustiy\csgocheat\hooks\c_events.cpp(11): fatal error C1083: Cannot open include file: 'discordpresence.hpp': No such file or directory
+  c_wnd_proc.cpp
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hooks\c_prediction_.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hooks\c_prediction_.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hooks\c_prediction_.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hooks\c_prediction_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_hooks.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_hooks.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_hooks.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_hooks.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_model_render_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_panel_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_panel_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_panel_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_panel_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_render_view_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_render_view_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_render_view_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_render_view_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_hooks.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_panel_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_render_view_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_net_channel_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_net_channel_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_net_channel_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_net_channel_.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hooks\c_model_render_.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hooks\c_model_render_.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hooks\c_model_render_.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hooks\c_model_render_.cpp)
+  idirect3ddevice9.cpp
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hooks\c_hooks.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hooks\c_hooks.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\hooks\c_hooks.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\hooks\c_hooks.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_smoke_grenade_projectile_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_smoke_grenade_projectile_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_smoke_grenade_projectile_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_smoke_grenade_projectile_.cpp)
+  imgui.cpp
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_net_channel_.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hooks\c_surface_.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hooks\c_surface_.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hooks\c_surface_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_smoke_grenade_projectile_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_prediction_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_prediction_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_prediction_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_prediction_.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hooks\c_sv_cheats.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hooks\c_sv_cheats.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hooks\c_sv_cheats.cpp)
+  loki_menu.cpp
+  LuaAPI.cpp
+  c_menu.cpp
+  c_button.cpp
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_prediction_.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hooks\c_view_render_.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hooks\c_view_render_.cpp)
+  c_checkbox.cpp
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hooks\c_view_render_.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hooks\c_wnd_proc.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hooks\c_wnd_proc.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hooks\c_wnd_proc.cpp)
+d:\virtoustiy\csgocheat\hooks\c_prediction_.cpp(117): warning C4244: 'initializing': conversion from 'int32_t' to 'float', possible loss of data
+  c_color_select.cpp
+  c_flow_layout.cpp
+  c_group_box.cpp
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_surface_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_surface_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_surface_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_surface_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_sv_cheats.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_sv_cheats.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_sv_cheats.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_sv_cheats.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\hooks\idirect3ddevice9.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\hooks\idirect3ddevice9.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\hooks\idirect3ddevice9.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_sv_cheats.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_surface_.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_wnd_proc.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_wnd_proc.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_wnd_proc.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_wnd_proc.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\menu\c_menu.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\menu\c_menu.cpp)
+  c_hotkey_select.cpp
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\c_wnd_proc.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\menu\c_menu.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\loki_menu.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\loki_menu.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\loki_menu.cpp)
+  c_image.cpp
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\LuaAPI.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\LuaAPI.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\LuaAPI.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\menu\framework\c_button.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\menu\framework\c_button.cpp)
+  c_navbar.cpp
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\menu\framework\c_button.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\menu\framework\c_checkbox.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\menu\framework\c_checkbox.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\menu\framework\c_checkbox.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\menu\framework\c_flow_layout.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\menu\framework\c_flow_layout.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\menu\framework\c_flow_layout.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\idirect3ddevice9.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\idirect3ddevice9.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\idirect3ddevice9.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\idirect3ddevice9.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\menu\framework\c_group_box.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\menu\framework\c_group_box.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\menu\framework\c_group_box.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\LuaAPI.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\LuaAPI.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\LuaAPI.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\LuaAPI.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\menu\framework\c_color_select.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\menu\framework\c_color_select.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\menu\framework\c_color_select.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\hooks\idirect3ddevice9.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\LuaAPI.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\c_menu.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\c_menu.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\c_menu.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\c_menu.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\loki_menu.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\loki_menu.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\loki_menu.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\loki_menu.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_checkbox.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_checkbox.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_checkbox.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_checkbox.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\c_menu.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_button.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_button.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\loki_menu.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_button.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_button.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_checkbox.cpp)
+  c_navbar_tab.cpp
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_flow_layout.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_flow_layout.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_flow_layout.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_flow_layout.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_button.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\menu\framework\c_image.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\menu\framework\c_image.cpp)
+d:\virtoustiy\csgocheat\loki_menu.cpp(77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\menu\framework\c_image.cpp)
+d:\virtoustiy\csgocheat\loki_menu.cpp(97): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(97): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(98): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(98): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(102): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(103): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(117): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(119): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(120): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(127): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(128): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(152): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+d:\virtoustiy\csgocheat\loki_menu.cpp(152): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(155): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(157): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(158): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(186): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(187): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(189): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(220): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+d:\virtoustiy\csgocheat\loki_menu.cpp(220): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(225): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+d:\virtoustiy\csgocheat\loki_menu.cpp(225): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(228): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(229): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(230): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(231): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(232): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(235): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(236): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(239): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(241): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\luaapi.cpp(105): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\virtoustiy\csgocheat\luaapi.cpp(106): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(256): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(257): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\luaapi.cpp(124): warning C4244: 'initializing': conversion from 'lua_Integer' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\luaapi.cpp(125): warning C4244: 'initializing': conversion from 'lua_Integer' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(258): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\luaapi.cpp(126): warning C4244: 'initializing': conversion from 'lua_Integer' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(260): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(261): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\luaapi.cpp(152): warning C4244: 'initializing': conversion from 'lua_Integer' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\luaapi.cpp(153): warning C4244: 'initializing': conversion from 'lua_Integer' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\luaapi.cpp(154): warning C4244: 'initializing': conversion from 'lua_Integer' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(264): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\luaapi.cpp(169): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(295): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\luaapi.cpp(169): warning C4244: 'argument': conversion from 'lua_Integer' to 'const float', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(296): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(305): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\luaapi.cpp(184): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(307): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\luaapi.cpp(184): warning C4244: 'argument': conversion from 'lua_Integer' to 'const float', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(318): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(319): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(336): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\luaapi.cpp(199): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(337): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\luaapi.cpp(199): warning C4244: 'argument': conversion from 'lua_Integer' to 'const float', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(339): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(343): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(346): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(348): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\luaapi.cpp(214): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(353): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(354): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(359): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\luaapi.cpp(214): warning C4244: 'argument': conversion from 'lua_Integer' to 'const float', possible loss of data
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_group_box.cpp)
+d:\virtoustiy\csgocheat\loki_menu.cpp(360): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_group_box.cpp)
+d:\virtoustiy\csgocheat\luaapi.cpp(227): warning C4244: 'argument': conversion from 'lua_Integer' to 'float', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(382): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_group_box.cpp)
+d:\virtoustiy\csgocheat\loki_menu.cpp(413): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_group_box.cpp)
+d:\virtoustiy\csgocheat\loki_menu.cpp(414): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(415): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(419): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(420): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\luaapi.cpp(277): warning C4018: '<': signed/unsigned mismatch
+d:\virtoustiy\csgocheat\loki_menu.cpp(422): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(435): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\luaapi.cpp(308): warning C4244: 'argument': conversion from 'lua_Integer' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(442): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\luaapi.cpp(323): warning C4244: 'argument': conversion from 'lua_Integer' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\luaapi.cpp(337): warning C4244: 'argument': conversion from 'lua_Integer' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\luaapi.cpp(344): warning C4244: 'argument': conversion from 'lua_Integer' to 'const uint32_t', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(443): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(446): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(447): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(463): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(499): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(500): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(513): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(519): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(520): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(522): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(536): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(543): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(544): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(548): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(549): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(567): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(603): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(675): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(676): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(677): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(681): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(684): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(685): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(686): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(719): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\luaapi.cpp(478): warning C4244: '=': conversion from 'lua_Integer' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(728): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\luaapi.cpp(479): warning C4244: '=': conversion from 'lua_Integer' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\luaapi.cpp(491): warning C4244: '=': conversion from 'lua_Integer' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(729): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\luaapi.cpp(492): warning C4244: '=': conversion from 'lua_Integer' to 'uint8_t', possible loss of data
+d:\virtoustiy\csgocheat\luaapi.cpp(493): warning C4244: '=': conversion from 'lua_Integer' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(731): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\luaapi.cpp(494): warning C4244: '=': conversion from 'lua_Integer' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\luaapi.cpp(495): warning C4244: '=': conversion from 'lua_Integer' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\luaapi.cpp(496): warning C4244: '=': conversion from 'lua_Integer' to 'short', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(743): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\luaapi.cpp(497): warning C4244: '=': conversion from 'lua_Integer' to 'short', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(744): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(749): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(756): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(757): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(758): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(759): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(762): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(763): warning C4244: 'argument': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+d:\virtoustiy\csgocheat\loki_menu.cpp(763): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(764): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(765): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(773): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(779): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(780): warning C4244: 'argument': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+d:\virtoustiy\csgocheat\loki_menu.cpp(780): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(781): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(782): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(790): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(796): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(797): warning C4244: 'argument': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+d:\virtoustiy\csgocheat\loki_menu.cpp(797): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(798): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(799): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(807): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(813): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(814): warning C4244: 'argument': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+d:\virtoustiy\csgocheat\loki_menu.cpp(814): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(815): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(816): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(829): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(830): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(841): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(842): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(843): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(849): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(850): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(851): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(852): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(866): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(867): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(868): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(1056): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(1087): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(1095): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(1131): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(1144): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(1149): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(1156): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(1158): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(1167): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(1185): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\virtoustiy\csgocheat\loki_menu.cpp(1200): warning C4244: 'argument': conversion from 'const _Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+d:\virtoustiy\csgocheat\loki_menu.cpp(1231): error C2664: 'HWND FindWindowW(LPCWSTR,LPCWSTR)': cannot convert argument 2 from 'const char [33]' to 'LPCWSTR'
+  d:\virtoustiy\csgocheat\loki_menu.cpp(1231): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_flow_layout.cpp)
+  c_router.cpp
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\menu\framework\c_hotkey_select.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\menu\framework\c_hotkey_select.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\menu\framework\c_hotkey_select.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\menu\framework\c_navbar.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\menu\framework\c_navbar.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_color_select.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_color_select.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_color_select.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_color_select.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\menu\framework\c_navbar.cpp)
+  c_select.cpp
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_group_box.cpp)
+  c_text.cpp
+  c_font.cpp
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_color_select.cpp)
+  c_indicators.cpp
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\menu\c_menu.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\menu\c_menu.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\menu\c_menu.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\menu\c_menu.cpp)
+d:\virtoustiy\csgocheat\menu\c_menu.cpp(33): fatal error C1083: Cannot open include file: 'discordpresence.hpp': No such file or directory
+  c_renderer.cpp
+  c_base_combat_weapon.cpp
+  c_cs_player.cpp
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_image.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_image.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_image.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_image.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_hotkey_select.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_hotkey_select.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_hotkey_select.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_hotkey_select.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_image.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_hotkey_select.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_navbar.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_navbar.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_navbar.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_navbar.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_navbar.cpp)
+  c_global_vars_base.cpp
+  c_glow_object_manager.cpp
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\menu\framework\c_router.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\menu\framework\c_router.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\menu\framework\c_router.cpp)
+  serialization.cpp
+d:\virtoustiy\csgocheat\renderer\c_font.cpp(89): error C2664: 'HFONT CreateFontW(int,int,int,int,int,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,DWORD,LPCWSTR)': cannot convert argument 14 from 'const _Elem *' to 'LPCWSTR'
+          with
+          [
+              _Elem=char
+          ]
+  d:\virtoustiy\csgocheat\renderer\c_font.cpp(92): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\virtoustiy\csgocheat\renderer\c_font.cpp(89): error C2789: 'font': an object of const-qualified type must be initialized
+  d:\virtoustiy\csgocheat\renderer\c_font.cpp(89): note: see declaration of 'font'
+d:\virtoustiy\csgocheat\renderer\c_font.cpp(94): error C3536: 'font': cannot be used before it is initialized
+d:\virtoustiy\csgocheat\renderer\c_font.cpp(98): error C2664: 'HGDIOBJ SelectObject(HDC,HGDIOBJ)': cannot convert argument 2 from 'int' to 'HGDIOBJ'
+  d:\virtoustiy\csgocheat\renderer\c_font.cpp(98): note: Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+d:\virtoustiy\csgocheat\renderer\c_font.cpp(98): error C2789: 'font_old': an object of const-qualified type must be initialized
+  d:\virtoustiy\csgocheat\renderer\c_font.cpp(98): note: see declaration of 'font_old'
+d:\virtoustiy\csgocheat\renderer\c_font.cpp(149): error C3536: 'font_old': cannot be used before it is initialized
+d:\virtoustiy\csgocheat\renderer\c_font.cpp(149): error C2664: 'HGDIOBJ SelectObject(HDC,HGDIOBJ)': cannot convert argument 2 from 'int' to 'HGDIOBJ'
+  d:\virtoustiy\csgocheat\renderer\c_font.cpp(149): note: Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+d:\virtoustiy\csgocheat\renderer\c_font.cpp(151): error C2664: 'BOOL DeleteObject(HGDIOBJ)': cannot convert argument 1 from 'int' to 'HGDIOBJ'
+  d:\virtoustiy\csgocheat\renderer\c_font.cpp(151): note: Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\menu\framework\c_navbar_tab.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\menu\framework\c_navbar_tab.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\menu\framework\c_navbar_tab.cpp)
+  sounds.cpp
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\renderer\c_indicators.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\renderer\c_indicators.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\renderer\c_indicators.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\sdk\c_base_combat_weapon.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\sdk\c_base_combat_weapon.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\sdk\c_base_combat_weapon.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\menu\framework\c_select.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\menu\framework\c_select.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\menu\framework\c_select.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\sdk\c_cs_player.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\sdk\c_cs_player.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\menu\framework\c_text.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\menu\framework\c_text.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\sdk\c_cs_player.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\menu\framework\c_text.cpp)
+d:\virtoustiy\csgocheat\serialization.cpp(3): fatal error C1083: Cannot open include file: 'discord_rpc.h': No such file or directory
+  c_hotkeys.cpp
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_navbar_tab.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_navbar_tab.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_navbar_tab.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_navbar_tab.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_router.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_router.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_router.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_router.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\sdk\c_global_vars_base.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\sdk\c_global_vars_base.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\renderer\c_renderer.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\renderer\c_renderer.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\sdk\c_global_vars_base.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\renderer\c_renderer.cpp)
+  c_log.cpp
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\renderer\c_renderer.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\renderer\c_renderer.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\renderer\c_renderer.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\renderer\c_renderer.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\sdk\c_glow_object_manager.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\sdk\c_glow_object_manager.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\sdk\c_glow_object_manager.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\sdk\c_cs_player.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\sdk\c_cs_player.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\sdk\c_cs_player.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\sdk\c_cs_player.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_router.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_navbar_tab.cpp)
+  c_netvar.cpp
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_text.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_text.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_text.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_text.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_select.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_select.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_select.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_select.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\renderer\c_indicators.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\renderer\c_indicators.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\renderer\c_indicators.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\renderer\c_indicators.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_text.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\menu\framework\c_select.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\renderer\c_indicators.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\sdk\c_cs_player.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\sdk\c_cs_player.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\sdk\c_cs_player.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\sdk\c_cs_player.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\sounds\sounds.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\sounds\sounds.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\sounds\sounds.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\utils\c_hotkeys.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\utils\c_hotkeys.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\sdk\c_cs_player.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\utils\c_hotkeys.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\renderer\c_indicators.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(392): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\renderer\c_indicators.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data (compiling source file csgocheat\renderer\c_indicators.cpp)
+d:\virtoustiy\csgocheat\utils\math.h(393): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data (compiling source file csgocheat\renderer\c_indicators.cpp)
+d:\virtoustiy\csgocheat\renderer\c_indicators.cpp(70): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\utils\c_log.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\utils\c_log.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\utils\c_log.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(34): error C2440: 'initializing': cannot convert from 'WCHAR [256]' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' (compiling source file csgocheat\utils\c_netvar.cpp)
+  d:\virtoustiy\csgocheat\utils\c_memory.h(34): note: No constructor could take the source type, or constructor overload resolution was ambiguous (compiling source file csgocheat\utils\c_netvar.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\sounds\sounds.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\sounds\sounds.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\sounds\sounds.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\sounds\sounds.cpp)
+d:\virtoustiy\csgocheat\utils\c_memory.h(233): warning C4129: 'o': unrecognized character escape sequence (compiling source file csgocheat\utils\c_netvar.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\sounds\sounds.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\utils\c_hotkeys.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\utils\c_hotkeys.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\utils\c_hotkeys.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\utils\c_hotkeys.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\utils\c_hotkeys.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1275): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\utils\c_log.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1276): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\utils\c_log.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1277): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\utils\c_log.cpp)
+d:\virtoustiy\csgocheat\utils\c_config.h(1278): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\utils\c_log.cpp)
+d:\virtoustiy\csgocheat\sounds\sounds.cpp(57): error C2440: 'initializing': cannot convert from 'const char [7]' to 'PCTSTR'
+  d:\virtoustiy\csgocheat\sounds\sounds.cpp(57): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\virtoustiy\csgocheat\sounds\sounds.cpp(59): error C2664: 'HINTERNET HttpOpenRequestA(HINTERNET,LPCSTR,LPCSTR,LPCSTR,LPCSTR,LPCSTR *,DWORD,DWORD_PTR)': cannot convert argument 6 from 'PCTSTR [2]' to 'LPCSTR *'
+  d:\virtoustiy\csgocheat\sounds\sounds.cpp(60): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\virtoustiy\csgocheat\sounds\sounds.cpp(88): error C2440: 'initializing': cannot convert from 'LPTSTR' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  d:\virtoustiy\csgocheat\sounds\sounds.cpp(88): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+d:\virtoustiy\csgocheat\sounds\sounds.cpp(95): error C2440: 'initializing': cannot convert from 'LPTSTR' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  d:\virtoustiy\csgocheat\sounds\sounds.cpp(95): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+d:\virtoustiy\csgocheat\sounds\sounds.cpp(102): error C2440: 'initializing': cannot convert from 'LPTSTR' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  d:\virtoustiy\csgocheat\sounds\sounds.cpp(102): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+d:\virtoustiy\csgocheat\sounds\sounds.cpp(109): error C2440: 'initializing': cannot convert from 'LPTSTR' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  d:\virtoustiy\csgocheat\sounds\sounds.cpp(109): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+d:\virtoustiy\csgocheat\sounds\sounds.cpp(348): error C2440: 'initializing': cannot convert from 'const char [7]' to 'PCTSTR'
+  d:\virtoustiy\csgocheat\sounds\sounds.cpp(348): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\virtoustiy\csgocheat\sounds\sounds.cpp(350): error C2664: 'HINTERNET HttpOpenRequestA(HINTERNET,LPCSTR,LPCSTR,LPCSTR,LPCSTR,LPCSTR *,DWORD,DWORD_PTR)': cannot convert argument 6 from 'PCTSTR [2]' to 'LPCSTR *'
+  d:\virtoustiy\csgocheat\sounds\sounds.cpp(351): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\virtoustiy\csgocheat\sounds\sounds.cpp(412): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'const _Elem *' to 'LPCWSTR'
+          with
+          [
+              _Elem=char
+          ]
+  d:\virtoustiy\csgocheat\sounds\sounds.cpp(412): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\virtoustiy\csgocheat\sounds\sounds.cpp(419): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'const _Elem *' to 'LPCWSTR'
+          with
+          [
+              _Elem=char
+          ]
+  d:\virtoustiy\csgocheat\sounds\sounds.cpp(419): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\virtoustiy\csgocheat\sounds\sounds.cpp(425): error C2664: 'int MessageBoxW(HWND,LPCWSTR,LPCWSTR,UINT)': cannot convert argument 2 from 'const _Elem *' to 'LPCWSTR'
+          with
+          [
+              _Elem=char
+          ]
+  d:\virtoustiy\csgocheat\sounds\sounds.cpp(425): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+d:\virtoustiy\csgocheat\utils\c_config.h(1423): warning C4244: '=': conversion from 'ValueType' to 'float', possible loss of data
+          with
+          [
+              ValueType=int
+          ] (compiling source file csgocheat\utils\c_log.cpp)

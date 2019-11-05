@@ -1,0 +1,5 @@
+fully updated on - 28.09.2019 by fr0zen#2649
+i fixed the menu and updated it, i have tried it myself and everything
+works properly, if you can't compile it or you have problems with it DON'T contact me
+if you don't see the text in the menu add -disable_d3d9ex in your launch options
+IT IS DETECTED, IT HAS NO JUNK CODE, I AM NOT GUILTY IF YOU GET BANNED. gl hf with this trash
